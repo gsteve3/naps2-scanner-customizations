@@ -114,7 +114,7 @@
     <ImageSharpen></ImageSharpen>
     <ImageReset></ImageReset>
     <RotateLeft></RotateLeft>
-    <RotateRight></RotateRight>
+    <RotateRight>Ctrl+Shift+R</RotateRight>
     <RotateFlip></RotateFlip>
     <RotateCustom></RotateCustom>
     <MoveUp>Ctrl+Up</MoveUp>
